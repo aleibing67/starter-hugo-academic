@@ -6,7 +6,7 @@ title: Andreas Leibing
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Economics
+role: PhD Candidate, Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,34 +18,34 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Economics of Education
+- Labor Economics
+- Applied Econometrics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Economics
+    institution: Freie Universität Berlin
+    year: 2019 - ongoing
+  - course: MSc in Economics
+    institution: Université Paris-Saclay
+    year: 2017-2018
+  - course: MSc in Economics
+    institution: Ludwig-Maximilians-Universität München
+    year: 2016-2019
+  - course: BA in Economics
+    institution: Georg-August-Universität Göttingen
+    year: 2013-2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:aleibing@diw.de" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -70,8 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate at the German Institute for Economic Research (DIW Berlin) and the Freie Universität Berlin. Since January 2022, I am also Chair of the Board of the Berlin Network of Labor Market Research (BeNA).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests lie in the field of Labor Economics and the Economics of Education. If you are interested in my projects, please feel free to get in contact with me.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
