@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Andreas Leibing
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: DIW Berlin
+  url: https://www.diw.de/de/diw_01.c.679452.de/personen/leibing__andreas.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
