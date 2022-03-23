@@ -29,10 +29,8 @@ education:
     institution: Freie Universität Berlin
     year: 2019 - ongoing
   - course: MSc in Economics
-    institution: Université Paris-Saclay
-    year: 2017-2018
-  - course: MSc in Economics
-    institution: Ludwig-Maximilians-Universität München
+    institution: Ludwig-Maximilians-Universität München //
+    /& Université Paris-Saclay
     year: 2016-2019
   - course: BA in Economics
     institution: Georg-August-Universität Göttingen
