@@ -14,7 +14,7 @@ organizations:
   url: https://www.diw.de/de/diw_01.c.679452.de/personen/leibing__andreas.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include labor economics and the economics of education, esecially in the tertiary sector.
 
 # Interests to show in About widget
 interests:
@@ -49,10 +49,10 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/aleibing67
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/andreas-leibing-83ab0a156/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -62,7 +62,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "aleibing@diw.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
