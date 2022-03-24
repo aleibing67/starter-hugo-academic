@@ -27,10 +27,10 @@ education:
   courses:
   - course: PhD in Economics
     institution: Freie Universität Berlin
-    year: 2019 - ongoing
+    year: since 2019
   - course: MSc in Economics
     institution: Ludwig-Maximilians-Universität München 
-    institution: and Université Paris-Saclay
+    and Université Paris-Saclay
     year: 2016-2019
   - course: BA in Economics
     institution: Georg-August-Universität Göttingen
@@ -68,8 +68,8 @@ email: "aleibing@diw.de"
 highlight_name: true
 ---
 
-I am a PhD candidate at the German Institute for Economic Research (DIW Berlin) and the Freie Universität Berlin. Since January 2022, I am also Chair of the Board of the Berlin Network of Labor Market Research (BeNA).
+I am a PhD candidate at the German Institute for Economic Research (DIW Berlin) and the Berlin School of Economics (BSE) via Freie Universität Berlin. Since January 2022, I am also Chair of the Board of the Berlin Network of Labor Market Research (BeNA).
 
-My research interests lie in the field of Labor Economics and the Economics of Education. If you are interested in my projects, please feel free to get in contact with me.
+My research interests lie in the field of Labor Economics and the Economics of Education. Here, I am especially interested in the determinants in educational attainment in the tertiary sector. If you are interested in my projects, please feel free to get in contact with me.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
