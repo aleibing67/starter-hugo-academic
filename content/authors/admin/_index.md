@@ -46,7 +46,7 @@ education:
     institution: Freie Universität Berlin
     year: since 2019
   - course: MSc in Economics
-    institution: Ludwig-Maximilians-Universität München, Université Paris-Saclay
+    institution: {{< Ludwig-Maximilians-Universität München <br> Université Paris-Saclay >}}
     year: 2016-2019
   - course: BA in Economics
     institution: Georg-August-Universität Göttingen
@@ -88,4 +88,4 @@ I am a PhD candidate in Economics at the German Institute for Economic Research 
 
 My research interests lie in the area of Labor Economics and the Economics of Education. Here, I am especially interested in the determinants of college enrollment and college completion, as well as the (expected) returns to tertiary education. If you are interested in my projects (below), please get in contact with me.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
