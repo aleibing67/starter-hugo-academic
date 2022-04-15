@@ -86,6 +86,6 @@ highlight_name: true
 
 I am a PhD candidate in Economics at the German Institute for Economic Research (DIW Berlin) and the Berlin School of Economics (BSE) via Freie Universität Berlin. Since January 2022, I am also Chair of the Board of the Berlin Network of Labor Market Research (BeNA). 
 
-My research interests lie in the area of Labor Economics and the Economics of Education. Here, I am especially interested in the determinants of college enrollment and college completion, as well as the (expected) returns to tertiary education. If you are interested in my projects (below), please get in contact with me.
+My research interests lie in the area of Labor Economics and the Economics of Education. Here, I am especially interested in the determinants of college enrollment and college completion, as well as the (expected) returns to tertiary education. If you are interested in my projects, please get in contact with me.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
