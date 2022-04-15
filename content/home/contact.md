@@ -35,17 +35,9 @@ content:
     country: Germany
     country_code: GER
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+    latitude: '52.5122'
+    longitude: '13.3887'
+
 
 design:
   columns: '2'
