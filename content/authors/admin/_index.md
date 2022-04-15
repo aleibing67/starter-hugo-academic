@@ -9,7 +9,7 @@ superuser: true
 design:
   background:
     # Name of image in `assets/media/`.
-    image: pexels-pixabay-356065.jpg
+    image: background.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0.6
     #  Options are `cover` (default), `contain`, or `actual` size.
@@ -46,7 +46,7 @@ education:
     institution: Freie Universität Berlin
     year: since 2019
   - course: MSc in Economics
-    institution: Ludwig-Maximilians-Universität München \n Université Paris-Saclay
+    institution: Ludwig-Maximilians-Universität München <br /> Université Paris-Saclay
     year: 2016-2019
   - course: BA in Economics
     institution: Georg-August-Universität Göttingen
