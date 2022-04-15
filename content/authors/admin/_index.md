@@ -17,7 +17,7 @@ organizations:
   url: https://www.diw.de/de/diw_01.c.679452.de/personen/leibing__andreas.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include labor economics and the economics of education, esecially in the tertiary sector.
+bio: My research interests include labor economics and the economics of education, especially the tertiary sector.
 
 # Interests to show in About widget
 interests:
@@ -32,7 +32,7 @@ education:
     institution: Freie Universität Berlin
     year: since 2019
   - course: MSc in Economics
-    institution: Ludwig-Maximilians-Universität München and Université Paris-Saclay
+    institution: Ludwig-Maximilians-Universität München, Université Paris-Saclay
     year: 2016-2019
   - course: BA in Economics
     institution: Georg-August-Universität Göttingen
