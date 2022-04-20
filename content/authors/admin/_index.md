@@ -71,4 +71,4 @@ I am a PhD candidate in Economics at the German Institute for Economic Research 
 
 My research interests lie in the area of Labor Economics and the Economics of Education. Here, I am especially interested in the determinants of college enrollment and college completion, as well as the (expected) returns to tertiary education. If you are interested in my projects, please get in contact with me.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
