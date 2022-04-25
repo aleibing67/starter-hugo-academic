@@ -31,12 +31,12 @@ publication_types: ["3"]
 publication: In *CEP Discussion Papers*
 publication_short: In *CEP Discussion Papers*
 
-abstract: Following a landmark court ruling in 2005, more than half of Germany's universities started charging tuition fees, which were subsequently abolished until 2015. We exploit the unusual lack of grandfathering in these policies to show that fees increase study effort and degree completion among incumbent students. However, fees also decrease first-time university enrollment among high school graduates. Combining this enrollment impact with the effect on completion, we find that fees around the zero-price margin have only little effect on overall educational attainment. We conclude by discussing policies targeting the separate effect margins of fees and caution against a general abolition.
+abstract: Using detailed data from a unique survey of high school graduates in Germany, we document a gender gap in expected full-time earnings of more than 15%. We apply a regression-compatible Oaxaca-Blinder decomposition and find that especially differences in coefficients help explain the gap. In particular, the effects of having time for family as career motive and being first-generation college student are associated with large penalties in female wage expectations exclusively. This is especially true for higher expected career paths. Resulting expected returns to education are associated with college enrollment of women and could thus entrench subsequent gaps in realized earnings.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [higher education, tuition fees, germany]
+tags: [wage expectations, gender gap, college enrollment]
 
 # Display this page in the Featured widget?
 featured: true
