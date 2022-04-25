@@ -36,7 +36,7 @@ abstract: Following a landmark court ruling in 2005, more than half of Germany's
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [higher education, tuition fees, germany]
+tags: [tuition fees, college enrollment, college completion]
 
 # Display this page in the Featured widget?
 featured: true
