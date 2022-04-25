@@ -29,7 +29,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *CEP Discussion Papers*
-publication_short: In *CEPDP*
+publication_short: In *CEP Discussion Papers*
 
 abstract: Following a landmark court ruling in 2005, more than half of Germany's universities started charging tuition fees, which were subsequently abolished until 2015. We exploit the unusual lack of grandfathering in these policies to show that fees increase study effort and degree completion among incumbent students. However, fees also decrease first-time university enrollment among high school graduates. Combining this enrollment impact with the effect on completion, we find that fees around the zero-price margin have only little effect on overall educational attainment. We conclude by discussing policies targeting the separate effect margins of fees and caution against a general abolition.
 
@@ -44,7 +44,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+#   url: http://.org
 
 url_pdf: ''
 url_code: ''
@@ -67,7 +67,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-#projects:
+#   projects:
 #- example
 
 # Slides (optional).
