@@ -28,8 +28,8 @@ doi: ""
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Unpublished*
-publication_short: In *Unpublished*
+publication: In *IZA Discussion Papers*
+publication_short: In *IZA DP*
 
 abstract: Using detailed data from a unique survey of high school graduates in Germany, we document a gender gap in expected full-time earnings of more than 15%. We apply a regression-compatible Oaxaca-Blinder decomposition and find that especially differences in coefficients help explain the gap. In particular, the effects of having time for family as career motive and being first-generation college student are associated with large penalties in female wage expectations exclusively. This is especially true for higher expected career paths. Resulting expected returns to education are associated with college enrollment of women and could thus entrench subsequent gaps in realized earnings.
 
